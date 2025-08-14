@@ -134,7 +134,7 @@ const Index = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <h3 className="text-2xl font-bold text-foreground mb-6">
-              Why Choose InvestMate?
+              Why Choose Growbits?
             </h3>
             <div className="space-y-4">
               {benefits.map((benefit, index) => (
@@ -365,7 +365,7 @@ const Index = () => {
           <Card className="p-6 bg-primary/5">
             <CardHeader>
               <TrendingUp className="h-10 w-10 text-primary mb-3" />
-              <CardTitle className="text-xl">Why InvestMate is Perfect for Beginners</CardTitle>
+              <CardTitle className="text-xl">Why Growbits is Perfect for Beginners</CardTitle>
             </CardHeader>
             <CardContent>
               <div className="space-y-4">

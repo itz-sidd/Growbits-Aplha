@@ -61,7 +61,7 @@ export function AppSidebar() {
       <SidebarContent>
         <div className="p-4 border-b border-sidebar-border">
           <h2 className={`font-bold text-lg text-sidebar-primary ${collapsed ? 'hidden' : 'block'}`}>
-            InvestMate
+            GROWBITS
           </h2>
           {collapsed && (
             <div className="w-8 h-8 bg-sidebar-primary rounded-md flex items-center justify-center">

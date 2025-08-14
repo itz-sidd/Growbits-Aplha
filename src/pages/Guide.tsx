@@ -494,7 +494,7 @@ export default function Guide() {
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
               <PiggyBank className="h-5 w-5" />
-              How InvestMate Makes Investing Easy
+              How Growbits Makes Investing Easy
             </CardTitle>
             <CardDescription>
               Our platform simplifies investing for beginners
